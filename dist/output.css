@@ -538,9 +538,9 @@ video {
   border-radius: 0.25rem;
 }
 
-.bg-blue-500 {
+.bg-red-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(59 130 246 / var(--tw-bg-opacity));
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 
 .px-4 {
